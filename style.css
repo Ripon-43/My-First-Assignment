@@ -24,5 +24,26 @@ section{
 }
 .image{
     display: flex;
-    background-image: url();
-}
+    background-image: url(food-network-main/images/shapes/7.png);}
+    
+    
+    
+
+    
+    .container{
+        display: flex;
+    }
+    .heading{
+        text-align: center;
+
+    }
+    .recipie{
+        width: 20%;
+        margin-left: 5%;
+        margin-left: 5%;
+        padding-left: 10px;
+        box-shadow: 1px 10px 40px gray;
+    }
+    .image{
+        border-radius: 10px;
+    }

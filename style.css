@@ -1,6 +1,6 @@
 body{
     font-family: 'Poppins', sans-serif;
-    margin: 4%;
+    margin: 0%;
 }
 pre{font-family: 'Poppins', sans-serif;
 
@@ -59,7 +59,10 @@ section{
     }
     .box-shadow{
         box-shadow: 2px 2px 6px grey;
-        border-radius: 15px;
+        border-radius: 10px;
+        margin: 5%;
+        padding: auto;
+        
     }
     .box-follower{
         display: flex;
@@ -70,6 +73,7 @@ section{
     .follow-system{
         width: 20%;
         margin-left: 70%;
+        padding: 3%;
         
         
         
@@ -80,4 +84,5 @@ section{
         text-align: center;
         color: blanchedalmond;
         margin-top: 5%;
+   
     }
